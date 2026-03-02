@@ -1,0 +1,20 @@
+forecasting-api/
+│
+├── app/
+│   ├── main.py
+│   ├── model.py
+│   ├── schemas.py
+│   └── config.py
+│
+├── training/
+│   └── train.py
+│
+├── models/
+│
+├── data/
+│   └── train.csv
+│
+├── requirements.txt
+├── Dockerfile
+├── .dockerignore
+└── README.md

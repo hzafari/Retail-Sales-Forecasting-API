@@ -1,0 +1,2 @@
+MODEL_DIR = "models"
+MODEL_VERSION = "1.0"
